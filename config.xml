@@ -1,6 +1,6 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.phonegap.helloworld" version="1.0.0">
   <name>My Game</name>
-  <description>Ei taha kõik ära rikkuda, installi ja mängi</description>
+  <description>Ei taha k6ik ara rikkuda, installi ja mangi</description>
   <author href="amblik.ee" email="david@amblik.eu">PhoneGap Team</author>
   <content src="index.html"/>
   <preference name="DisallowOverscroll" value="true"/>
